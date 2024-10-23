@@ -11,15 +11,15 @@ input, button, textarea, select { font: inherit }
 
 /* ====== PADDING AROUND CONTENT ======  */
 
-body {
-    background-color: aquamarine;
+/* Desktops/Laptops */
+@media (min-width: 768px) { 
+    body { padding: 4% 20% } 
 }
 
-/* Desktops/Laptops */
-@media (min-width: 768px) { body { padding: 4% 20% } }
-
 /* Mobiles */
-@media (max-width: 767px) { body { padding: 12% 8% } }
+@media (max-width: 767px) { 
+    body { padding: 12% 8% }
+ }
 
 body {
     text-align: center;
