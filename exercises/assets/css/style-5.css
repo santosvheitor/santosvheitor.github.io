@@ -316,3 +316,8 @@ p {
     line-height: 1.6;
     margin-bottom: 20px;
 }
+
+img {
+    margin-bottom: 24px;
+    border-radius: 15px;
+}
