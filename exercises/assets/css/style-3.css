@@ -70,3 +70,27 @@ p {
 }
 
 a {color: blue}
+
+.section-1 {
+    background-color: lemonchiffon;
+}
+
+.section-2 {
+    background: lightgreen;
+}
+
+.section-3 {
+    background: lightblue;
+}
+
+.section-4 {
+    background: darkblue;
+}
+
+.section-5 {
+    background: lightcoral;
+}
+
+.section-6 {
+    background: lemonchiffon;
+}
