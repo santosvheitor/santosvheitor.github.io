@@ -10,7 +10,6 @@ img { width: 100%; height: auto; display: block }
 input, button, textarea, select { font: inherit }
 
 
-
 /* Desktops/Laptops */
 @media (min-width: 768px) { 
     body { padding: 4% 20% } 
@@ -24,6 +23,7 @@ input, button, textarea, select { font: inherit }
 body {
     text-align: center;
     font-family: sans-serif;
+    background-color: lightgreen;
 }
 
 h1 {
@@ -54,3 +54,4 @@ p {
     margin-bottom: 16px;
 }
 
+a { color: darkgreen; }
