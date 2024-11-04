@@ -358,3 +358,6 @@ p {
     color: var(--gray-800);
 }
 
+img {
+    margin-bottom: 22px;
+}
