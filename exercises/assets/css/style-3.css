@@ -258,7 +258,7 @@ body {
 
 /* Desktops */
 @media (min-width: 768px) {
-    body { padding: 4% 20% }
+    section { padding: 4% 20% }
 }
                         
 /* Mobiles */
